@@ -2,7 +2,7 @@
 
 # Secure Password Generator App
 
-![Password Generator App](.Secure-Password-Generator/assets/images/apppreview.png)
+![Password Generator App](../assets/images/apppreview.png)
 
 This is a simple Secure Password Generator App that you can use to generate strong and secure passwords. The app is built using basic HTML, CSS, and JavaScript, and it includes some animations to enhance the user experience.
 
